@@ -7,3 +7,7 @@ A `rotatividade de Pessoal` (ou **Turnover** em inglês), no contexto de _Gestã
 - Fonte: https://pt.wikipedia.org/wiki/Rotatividade_de_pessoal
 
 Para esse desafio, utilizarei um conjunto de dados da biblioteca do `PyCaret` o dataset **[employee](https://pycaret.org/get-data/)**.
+
+> Iremos trabalhar com um case de classificação chamado `"employee"`.
+
+O dataset em questão contém observações de funcionários de uma empresa e, o objetivo é prever, dado algumas variáveis se o funcionário irá deixar ou não a empresa.
