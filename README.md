@@ -1,1 +1,1 @@
-# Intro-AutoML-w-PyCaret-pt-BR-
+# Intro AutoML w/ PyCaret (pt-BR)
