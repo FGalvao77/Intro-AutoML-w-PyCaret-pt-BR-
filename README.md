@@ -11,3 +11,5 @@ Para esse desafio, utilizarei um conjunto de dados da biblioteca do `PyCaret` o 
 > Iremos trabalhar com um case de classificação.
 
 O dataset em questão contém observações de funcionários de uma empresa e, o objetivo é prever, dado algumas variáveis se o funcionário irá deixar ou não a empresa.
+
+Segue o link do [notebook](https://bit.ly/3Dojvdh).
